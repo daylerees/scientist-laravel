@@ -2,6 +2,9 @@
 
 # Scientist for Laravel
 
+[![Packagist Version](https://img.shields.io/packagist/v/daylerees/scientist-laravel.svg)](https://packagist.org/packages/daylerees/scientist-laravel)
+[![Packagist](https://img.shields.io/packagist/dt/daylerees/scientist-laravel.svg)](https://packagist.org/packages/daylerees/scientist-laravel)
+
 Allow the [Scientist library](https://github.com/daylerees/scientist) to be used with the [Laravel PHP framework](https://laravel.com).
 
 ## Installation
