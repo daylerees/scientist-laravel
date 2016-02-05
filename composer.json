@@ -1,5 +1,5 @@
 {
-    "name": "dayle/scientist-laravel",
+    "name": "daylerees/scientist-laravel",
     "description": "Allow the Scientist library to be used with the Laravel PHP framework.",
     "keywords": ["scientist", "laravel", "testing", "experiment", "framework", "dayle", "test"],
     "type": "library",
