@@ -45,7 +45,7 @@ return [
 ];
 ```
 
-Finally, register the Facade within the 'aliases' section of 'config/app.php'.
+Finally, register the Facade within the `aliases` section of `config/app.php`.
 
 
 ```php
@@ -109,6 +109,7 @@ class FooController extends Controller
             ->run();
     }
 }
+```
 
 See the Scientist documentation for more information!
 
