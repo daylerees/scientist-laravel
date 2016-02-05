@@ -1,0 +1,22 @@
+{
+    "name": "dayle/scientist-laravel",
+    "description": "Allow the Scientist library to be used with the Laravel PHP framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dayle Rees",
+            "email": "me@daylerees.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "5.*",
+        "daylerees/scientist": "^0.1.1@alpha"
+    },
+    "autoload": {
+        "psr-4": {
+            "Scientist\\Laravel\\": "src"
+        }
+    },
+    "minimum-stability": "alpha"
+}
